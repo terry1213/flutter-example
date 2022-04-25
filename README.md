@@ -8,3 +8,4 @@
 - BottomModalSheet 높이 조절: <https://github.com/terry1213/flutter-example/tree/modal_bottom_sheet_height>
 - 화면 방향 고정: <https://github.com/terry1213/flutter-example/tree/fix_the_screen_orientation>
 - precachePicture(): <https://github.com/terry1213/flutter-example/tree/precachePicture>
+- overscroll 효과 제거: <https://github.com/terry1213/flutter-example/tree/disable_overscroll_effect>
