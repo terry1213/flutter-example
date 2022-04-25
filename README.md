@@ -1,10 +1,3 @@
-## Flutter 관련 다양한 예시 코드
+overscroll 효과 제거 예시 코드입니다.
 
-개인 블로그(<https://terry1213.github.io>) 게시글에 올라가는 다양한 Flutter 예시 코드들은 올려두는 레포지터리입니다.
-
-
-### 예시 목록
-- precacheImage(): <https://github.com/terry1213/flutter-example/tree/precacheImage>
-- BottomModalSheet 높이 조절: <https://github.com/terry1213/flutter-example/tree/modal_bottom_sheet_height>
-- 화면 방향 고정: <https://github.com/terry1213/flutter-example/tree/fix_the_screen_orientation>
-- precachePicture(): <https://github.com/terry1213/flutter-example/tree/precachePicture>
+https://terry1213.github.io/flutter/flutter-android-listview-overscroll-effect/ 게시글과 함께 보시는 걸 추천합니다.
